@@ -41,7 +41,7 @@ Register Page:
 
 3. Run ``python manage.py migrate`` to create the book_review models.
 
-4. Start the development server and visit http://127.0.0.1:8000/admin/
+4. Start the development server ``python manage.py runserver`` and visit http://127.0.0.1:8000/admin/
    to create a user book review (you'll need the Admin app enabled).
    
 
