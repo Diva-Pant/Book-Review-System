@@ -31,8 +31,8 @@ Register Page:
 1. Add "book_review" to your INSTALLED_APPS setting like this::
 
     INSTALLED_APPS = [
-        ...
-        'book_review',
+       ...
+       'book_review.apps.BookReviewConfig',
     ]
 
 2. Include the book_review URLconf in your project urls.py like this::
