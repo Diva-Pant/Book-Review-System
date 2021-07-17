@@ -6,19 +6,23 @@ This is how basic view looks like :
 ![basic view](https://user-images.githubusercontent.com/66238565/126047520-6d4dd584-74fc-49ca-aa0e-540e71c7c256.PNG)
 
 Form to add review:
+
 ![adding review](https://user-images.githubusercontent.com/66238565/126047538-9fd836b7-edf1-4197-8e56-187179f437f0.PNG)
 
 List of books reviewed:
+
 ![added reviews](https://user-images.githubusercontent.com/66238565/126047551-cf4e5ad8-2b6e-4aab-9c7e-4730ec6e6141.PNG)
 
 Login Page:
+
 ![login page](https://user-images.githubusercontent.com/66238565/126047560-6b3d0cc9-8880-4daa-8bde-6b7baaa90e44.PNG)
 
 Register Page:
+
 ![register page](https://user-images.githubusercontent.com/66238565/126047571-c18d6e12-7acb-40a3-acad-ad2d585ef0e9.PNG)
 
 
-Installation Steps:
+#**Installation Steps:**
 1. Add "book_review" to your INSTALLED_APPS setting like this::
 
     INSTALLED_APPS = [
