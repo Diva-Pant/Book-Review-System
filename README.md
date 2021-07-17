@@ -22,7 +22,7 @@ Register Page:
 ![register page](https://user-images.githubusercontent.com/66238565/126047571-c18d6e12-7acb-40a3-acad-ad2d585ef0e9.PNG)
 
 
-#**Installation Steps:**
+**Installation Steps:**
 1. Add "book_review" to your INSTALLED_APPS setting like this::
 
     INSTALLED_APPS = [
