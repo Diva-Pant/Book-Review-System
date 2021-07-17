@@ -30,7 +30,7 @@ Register Page:
 
 
 **Installation Steps:**
-1. Add "book_review" to your INSTALLED_APPS setting like this::
+1. Add "book_review" to your INSTALLED_APPS setting in **mysite/settings.py** like this::
 
     INSTALLED_APPS = [
        ...
