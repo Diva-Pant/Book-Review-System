@@ -1,6 +1,6 @@
 # Book-Review-System
 
-This is a book review application. It lets the user add reviews on the book they have read and rate them. The application alos involves the functionality of adding and deleting their entries i.e reviews of a particular book.
+This is a book review application. It lets the user add reviews on the book they have read and rate them. The application also involves the functionality of adding and deleting their entries i.e reviews for a particular book.
 
 This is how basic view looks like :
 ![basic view](https://user-images.githubusercontent.com/66238565/126047520-6d4dd584-74fc-49ca-aa0e-540e71c7c256.PNG)
