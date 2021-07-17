@@ -37,7 +37,7 @@ Register Page:
        'book_review.apps.BookReviewConfig',
     ]
 
-2. Include the book_review URLconf in your project urls.py like this::
+2. Include the book_review URLconf in your project **mysite/urls.py** like this::
 
     path('book_review/', include('book_review.urls')),
 
