@@ -13,6 +13,11 @@ List of books reviewed:
 
 ![added reviews](https://user-images.githubusercontent.com/66238565/126047551-cf4e5ad8-2b6e-4aab-9c7e-4730ec6e6141.PNG)
 
+Deleting reviews: 
+
+![deleting reviews](https://user-images.githubusercontent.com/66238565/126047792-aa6db385-c741-4068-aa89-ff5361a30582.PNG)
+
+
 Login Page:
 
 ![login page](https://user-images.githubusercontent.com/66238565/126047560-6b3d0cc9-8880-4daa-8bde-6b7baaa90e44.PNG)
